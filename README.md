@@ -1,4 +1,6 @@
 # runCLTrun-Bugs
+# Download
+You can download runCLTrun [here](https://apps.apple.com/us/app/runcltrun/id1530125407)
 
 # How do I report a bug?
 
